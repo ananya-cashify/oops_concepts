@@ -1,4 +1,4 @@
-package in.cashify.inheritance;
+package in.cashify.inheritance.single;
 
 public class house extends color {
 

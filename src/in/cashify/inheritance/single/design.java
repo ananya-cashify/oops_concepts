@@ -1,6 +1,6 @@
-package in.cashify.inheritance;
+package in.cashify.inheritance.single;
 
-public class design extends color{
+public class design extends color {
 
     public design(String colorname) {
         super(colorname);

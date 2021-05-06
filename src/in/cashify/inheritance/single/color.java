@@ -1,8 +1,8 @@
-package in.cashify.inheritance;
+package in.cashify.inheritance.single;
 
 public  abstract class color {
 
-    public color (String colorname)
+    public color(String colorname)
     {
         System.out.println(colorname);
     }
